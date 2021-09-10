@@ -1,0 +1,2 @@
+# fooModule
+Test module
