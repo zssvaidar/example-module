@@ -1,0 +1,4 @@
+{
+  "controller": "pim:controllers/product",
+  "iconClass": "fas fa-square"
+}
