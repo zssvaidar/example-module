@@ -10,7 +10,7 @@
   "stream": false,
   "disabled": false,
   "type": "Base",
-  "module": "TestModule",
+  "module": "ExampleModule",
   "object": true,
   "hasOwner": true,
   "hasAssignedUser": true,

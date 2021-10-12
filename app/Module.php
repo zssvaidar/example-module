@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace TestModule;
+namespace ExampleModule;
 
 use Treo\Core\ModuleManager\AbstractModule;
 

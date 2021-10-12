@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace TestModule\Entities;
+namespace ExampleModule\Entities;
 
 use Espo\Core\Templates\Entities\Base;
 

@@ -1,4 +1,4 @@
-Espo.define('test-module:views/test/record/list', 'views/record/list',
+Espo.define('example-module:views/test/record/list', 'views/record/list',
     Dep => Dep.extend({
 
         setup() {

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace TestModule\Controllers;
+namespace ExampleModule\Controllers;
 
 use Espo\Core\Templates\Controllers\Base;
 
