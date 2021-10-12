@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace TestModule\Repositories;
+namespace ExampleModule\Repositories;
 
 use Espo\Core\Templates\Repositories\Base;
 

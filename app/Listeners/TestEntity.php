@@ -1,6 +1,6 @@
 <?php
 
-namespace TestModule\Listeners;
+namespace ExampleModule\Listeners;
 
 use Treo\Listeners\AbstractListener;
 

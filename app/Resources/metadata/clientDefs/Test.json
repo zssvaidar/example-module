@@ -1,4 +1,4 @@
 {
-  "controller": "pim:controllers/product",
+  "controller": "controllers/record",
   "iconClass": "fas fa-square"
 }

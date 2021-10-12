@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace TestModule\Services;
+namespace ExampleModule\Services;
 
 use Espo\Core\Templates\Services\Base;
 

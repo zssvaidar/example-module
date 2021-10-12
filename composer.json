@@ -5,16 +5,16 @@
   },
   "autoload": {
     "psr-4": {
-      "TestModule\\": "app/"
+      "ExampleModule\\": "app/"
     }
   },
   "extra": {
-    "treoId": "TestModule",
+    "treoId": "ExampleModule",
     "name": {
-      "default": "TestModule"
+      "default": "ExampleModule"
     },
     "description": {
-      "default": "Test module."
+      "default": "Example module."
     }
   }
 }
