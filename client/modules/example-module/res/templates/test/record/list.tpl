@@ -103,5 +103,5 @@
 {{/if}}
 
 {{else}}
-    {{translate 'No Data'}}
+    {{translate 'No Data yooooooooooooooopta'}}
 {{/if}}
